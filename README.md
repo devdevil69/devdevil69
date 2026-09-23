@@ -26,10 +26,10 @@ I am an early-career software engineer and computer science engineering professi
 ---
 
 <p align="center">
-  <a href="https://github.com/DeepanshuParakh29">
-    <img src="https://github-readme-stats.vercel.app/api?username=DeepanshuParakh29&show_icons=true&theme=transparent&hide_border=true" alt="Deepanshu's GitHub Stats" />
+  <a href="https://github.com/devdevil69">
+    <img src="https://github-readme-stats.vercel.app/api?username=devdevil69&show_icons=true&theme=transparent&hide_border=true" alt="Deepanshu's GitHub Stats" />
   </a>
   <a href="https://github.com/DeepanshuParakh29">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanshuParakh29&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdevil69&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
   </a>
 </p>
