@@ -10,7 +10,7 @@ I am an early-career software engineer and computer science engineering professi
 - 📈 Actively developing projects utilizing **Python, REST APIs, WebSockets, and FastAPI**.
 - 🏆 Certified by **HackerRank (Python & SQL)**, **AWS (Solutions Architecture)**, and completed the **Goldman Sachs Software Engineering** virtual experience.
 - 🌱 Currently expanding my skill set in algorithmic trading and exploring professional financial milestones like the CFA program.
-- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/deepanshu-parakh-08989b219/) | [Linktree](YOUR_LINKTREE_URL_HERE)
+- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/deepanshu-parakh-08989b219/) | [Portfolio](https://deepanshuparakh.vercel.app/)
 
 ## 🛠️ Featured Projects
 * **Binance Trading Bot:** An automated algorithmic trading bot developed in Python, leveraging REST APIs and WebSockets for real-time market data and execution.
